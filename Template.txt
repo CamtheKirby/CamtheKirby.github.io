@@ -1,0 +1,27 @@
+Title: Your Title (MAKE SURE THIS IS ON TOP OF YOUR SCRIPT! And make sure every line has a space between eachother.)
+
+[If a character isn't specified, the narrator will speak.]
+
+Dave: I am Dave
+
+Bambi: I am Bambi
+
+Boyfriend: I am Boyfriend
+
+Girlfriend: I am Girlfriend
+
+Corn Stealer: I am Corn Stealer
+
+Tristan: I am Tristan
+
+Expunged: I am Expunged
+
+Bandu: I am Bandu
+
+Brobgonal: I am Brobgonal
+
+Joke Bambi: I am Joke Bambi
+
+Random Character: I am Random Character, since I'm not a character available in the project, I will become this template circle!
+
+[End of Script]
